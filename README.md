@@ -3,13 +3,13 @@
 📌 → Trabalho em <i>front-end<br></i>
 📖 → Estudando minha 1° linguagem: <strong>JavaScript<br></strong>
 💌 → Fale comigo por email: <strong>yasminsouto5@gmail<br></strong>
-💬 → Discord: <strong>yukizyx#9009<br></strong>
+💬 → Discord: <strong>𝖒𝖔𝖈𝖍𝖎#0202<br></strong>
 💜 → Meus pronomes: <strong>ela/dela<br></strong>
 
 📌 → Working: Web Development <i>Front-End<br></i>
 📖 → Studying my 1st language: <i>JavaScript<br></i>
 💌 → Talk with me: <i>yasminsouto5@gmail<br></i>
-💬 → Discord: <i>yukizyx#9009<br></i>
+💬 → Discord: <i>𝖒𝖔𝖈𝖍𝖎#0202<br></i>
 💜 → Pronouns: <i>ela/dela</i>
 
 ## 📅 projeтoѕ | projecтѕ
