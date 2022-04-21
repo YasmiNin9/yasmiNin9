@@ -7,7 +7,7 @@
 💜 → Meus pronomes: <strong>ela/dela<br></strong>
 
 📌 → Working: Web Development <i>Front-End<br></i>
-📖 → Studying my 1st language: <i>JavaScrip<br></i>
+📖 → Studying my 1st language: <i>JavaScript<br></i>
 💌 → Talk with me: <i>yasminsouto5@gmail<br></i>
 💬 → Discord: <i>yukizyx#9009<br></i>
 💜 → Pronouns: <i>ela/dela</i>
