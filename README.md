@@ -1,7 +1,7 @@
 ### 👋 Oii! Aqui quem fala é a Yasmin, prazer. Bem vindo(a) ao meu perfil ↓ 👋
 ## 💜 ѕoвre мιм | aвoυт мe
 📌 → Trabalho em <i>front-end<br></i>
-📖 → Estudando minha 1° linguagem: <strong>JavaScrip<br></strong>
+📖 → Estudando minha 1° linguagem: <strong>JavaScript<br></strong>
 💌 → Fale comigo por email: <strong>yasminsouto5@gmail<br></strong>
 💬 → Discord: <strong>yukizyx#9009<br></strong>
 💜 → Meus pronomes: <strong>ela/dela<br></strong>
