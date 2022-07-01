@@ -36,7 +36,7 @@ you can check them out here or in Vercel! (/≧▽≦)/</strong> <i> Thanks for 
 
 <div>  
   <h3> 📱 Redeѕ ѕocιaιѕ | Socιal </h3>
-  <a href="https://www.linkedin.com/in/soutovit/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:yasminsouto5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
