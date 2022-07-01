@@ -6,13 +6,11 @@ Meu nome é <strong>Yasmin Vitória Souto</strong>, sou de 2001 e tenho como hob
 📌 → <i>Front-end<br></i>
 📖 → Estudando minha 1° linguagem: <strong>JavaScript<br></strong>
 💌 → Fale comigo por email: <strong>yasminsouto5@gmail<br></strong>
-💬 → Discord: <strong>y.#6122<br></strong>
 💜 → Meus pronomes: <strong>ela/dela<br></strong>
 
 📌 → <i>Front-End<br></i>
 📖 → Studying my 1st language: <i>JavaScript<br></i>
 💌 → Talk with me: <i>yasminsouto5@gmail<br></i>
-💬 → Discord: <strong>y.#6122<br></strong>
 💜 → Pronouns: <i>she/her</i>
 
 ## 📅 projeтoѕ | projecтѕ
