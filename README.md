@@ -15,7 +15,7 @@ Meu nome é <strong>Yasmin Vitória Souto</strong>, sou de 2001 e tenho como hob
 > + <strong>Atualmente, estou em processo de aprendizagem, porém eu já tenho repositórios <strong>publicados</strong>,<br> 
 você pode conferi-lôs aqui e no Vercel! (/≧▽≦)/</strong> <i> Obrigada por vir, fique à vontade! </i>
 > + <strong>I'm currently in learning process, but I already have <strong>published</strong> repositories here,<br>
-you can check them out here or in Vercel! (/≧▽≦)/</strong> <i> Thanks for coming, feel free! </i>
+you can check them out here or in Vercel! (/≧▽≦)/</strong> <i> Thanks for coming, you're welcome! </i>
 
 <br><div align="left">
   <a href="https://github.com/YasmiNin9">
