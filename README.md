@@ -1,4 +1,4 @@
-### 👋 Oii! Aqui quem fala é a Yasmin, muito prazer! Bem vindo(a) ao meu perfil ↓ 👋
+### 👋 Olá!! Aqui quem fala é a Yasmin, muito prazer! Bem vindo(a) ao meu perfil ↓ 👋
 ## 💜 ѕoвre мιм | aвoυт мe
 
 Meu nome é <strong>Yasmin Vitória Souto</strong>, sou de 2001 e tenho como hobby <strong>escutar música, aprender idiomas e jogar.</strong><br>
