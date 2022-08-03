@@ -1,4 +1,4 @@
-# 👋 Olá!! Aqui é a Yasmin, muito prazer! Bem vindo(a) ao meu perfil ↓
+# 👋 Olá!! Aqui é a Yasmin, prazer! Bem vindo(a) ao meu perfil ↓
 ![](https://cdn.discordapp.com/attachments/935238082125525082/1004528591536652389/computer-illustration.png)
 ## 💜 ѕoвre мιм | aвoυт мe
 
