@@ -29,18 +29,15 @@ you can check them out here or in Vercel! (/≧▽≦)/</strong> <i> Thanks for 
 <img align="center" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmiNin9&layout=compact&langs_count=7&theme=radical"/>
 
 
-### 📁 Lιngυagenѕ | moѕт υѕed langυageѕ
-<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
+### 📚 Studying at this moment...
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
  
 ### 📱 Redeѕ ѕocιaιѕ | Socιal
 <a href="https://www.linkedin.com/in/soutovit/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:yasminsouto5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
-### 🔧 Ferraмenтaѕ | Toolѕ </h3>
+### ⚙ Ferraмenтaѕ | Toolѕ </h3>
   
 <a href="#"> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
   
