@@ -25,8 +25,8 @@ you can check them out here or in Vercel! (/≧▽≦)/</strong> <i> Thanks for 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=YasmiNin9&theme=tokyonight&hide_border=true&area=true)
 
 <a href="https://github.com/YasmiNin9">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=yasmiNin9&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmiNin9&layout=compact&langs_count=7&theme=radical"/>
+<img align="center" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yasmiNin9&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img align="center" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmiNin9&layout=compact&langs_count=7&theme=radical"/>
 
 
 ### 📁 Lιngυagenѕ | moѕт υѕed langυageѕ
