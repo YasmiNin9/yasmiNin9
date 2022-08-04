@@ -22,11 +22,11 @@ você pode conferi-lôs aqui e no Vercel! (/≧▽≦)/</strong> <i> Obrigada po
 > + <strong>I'm currently in learning process, but I already have <strong>published</strong> repositories here,<br>
 you can check them out here or in Vercel! (/≧▽≦)/</strong> <i> Thanks for coming, you're welcome! </i>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=YasmiNin9&theme=synthwave&hide_border=true&area=true)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=YasmiNin9&theme=tokyonight&hide_border=true&area=true)
 
 <a href="https://github.com/YasmiNin9">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasmiNin9&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmiNin9&layout=compact&langs_count=7&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasmiNin9&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmiNin9&layout=compact&langs_count=7&theme=synthwave"/>
 
 
 ### 📁 Lιngυagenѕ | moѕт υѕed langυageѕ
