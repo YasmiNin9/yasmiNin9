@@ -1,6 +1,8 @@
-# 👋 Olá!! Aqui é a Yasmin, prazer! Bem vindo(a) ao meu perfil ↓
-![](https://cdn.discordapp.com/attachments/935238082125525082/1004528591536652389/computer-illustration.png)
-## 💜 ѕoвre мιм | aвoυт мe
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=eb3455&height=180&section=header&text=Yasmin Vitória&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=eb3455&size=25&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Yasmin+Vitória+Souto;I'm+21+years+old+;I'm+studying+Software+Development+by+my+own.;+Welcome+To+My+Profile+♡+:%29)](https://git.io/typing-svg)
+
+## ѕoвre мιм | aвoυт мe
 
 Meu nome é <strong>Yasmin Vitória Souto</strong>, sou de 2001 e tenho como hobby <strong>escutar música, aprender idiomas e jogar.</strong><br>
 
@@ -12,12 +14,15 @@ Meu nome é <strong>Yasmin Vitória Souto</strong>, sou de 2001 e tenho como hob
 📖 → Studying my 1st language: <i>JavaScript<br></i>
 💜 → Pronouns: <i>she/her</i>
 
+<img src="https://github-profile-trophy.vercel.app/?username=YasmiNin9&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+
 ## 📅 projeтoѕ | projecтѕ
 > + <strong>Atualmente, estou em processo de aprendizagem, porém já tenho repositórios <strong>publicados</strong>,<br> 
 você pode conferi-lôs aqui e no Vercel! (/≧▽≦)/</strong> <i> Obrigada por vir, fique à vontade! </i>
 > + <strong>I'm currently in learning process, but I already have <strong>published</strong> repositories here,<br>
 you can check them out here or in Vercel! (/≧▽≦)/</strong> <i> Thanks for coming, you're welcome! </i>
 
+![Contribution](https://activity-graph.herokuapp.com/graph?username=YasmiNin9&theme=synthwave&hide_border=true&area=true)
 
 <a href="https://github.com/YasmiNin9">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasmiNin9&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -29,8 +34,6 @@ you can check them out here or in Vercel! (/≧▽≦)/</strong> <i> Thanks for 
 <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-
-<br>
  
 ### 📱 Redeѕ ѕocιaιѕ | Socιal
 <a href="https://www.linkedin.com/in/soutovit/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -58,3 +61,6 @@ you can check them out here or in Vercel! (/≧▽≦)/</strong> <i> Thanks for 
 
 ### Sιѕтeмa Operacιonaιѕ | OS 
 <a href="#"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=eb3455&height=120&section=footer"/>
+
