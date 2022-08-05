@@ -9,6 +9,7 @@ Meu nome é <strong>Yasmin Vitória Souto</strong>, sou de 2001 e tenho como hob
 📌 → <i>Front-end<br></i>
 📖 → Estudando minha 1° linguagem: <strong>JavaScript<br></strong>
 💜 → Meus pronomes: <strong>ela/dela<br></strong>
+👯 → Ficaria feliz em **colaborar com projetos** frontend
 
 📌 → <i>Front-End<br></i>
 📖 → Studying my 1st language: <i>JavaScript<br></i>
@@ -34,7 +35,6 @@ you can check them out here or in Vercel! (/≧▽≦)/</strong> <i> Thanks for 
  
 ### 📱 Redeѕ ѕocιaιѕ | Socιal
 <a href="https://www.linkedin.com/in/soutovit/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:yasminsouto5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
 ### ⚙ Ferraмenтaѕ | Toolѕ </h3>
