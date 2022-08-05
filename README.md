@@ -23,6 +23,8 @@ você pode conferi-lôs aqui e no Vercel! (/≧▽≦)/</strong> <i> Obrigada po
 > + <strong>I'm currently in learning process, but I already have <strong>published</strong> repositories here,<br>
 you can check them out here or in Vercel! (/≧▽≦)/</strong> <i> Thanks for coming, you're welcome! </i>
 
+> - [**1° Projeto com CSS GRID**](https://animewinter.vercel.app) | [Profile Card Animado](https://profile-card-with-css.vercel.app)
+
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=YasmiNin9&theme=tokyonight&hide_border=true&area=true)
 
 <a href="https://github.com/YasmiNin9">
