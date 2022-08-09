@@ -7,12 +7,12 @@
 Meu nome é <strong>Yasmin Vitória Souto</strong>, sou de 2001 e tenho como hobby <strong>escutar música, aprender idiomas e jogar.</strong><br>
 
 📌 → <i>Front-end<br></i>
-📖 → Estudando minha 1° linguagem: <strong>JavaScript<br></strong>
+📖 → Estudando minha 1° linguagem: <strong>Javascript<br></strong>
 💜 → Meus pronomes: <strong>ela/dela<br></strong>
 👯 → Ficaria feliz em **colaborar com projetos** frontend
 
 📌 → <i>Front-End<br></i>
-📖 → Studying my 1st language: <i>JavaScript<br></i>
+📖 → Studying my 1st language: <i>Javascript<br></i>
 💜 → Pronouns: <i>she/her</i>
 
 <img src="https://github-profile-trophy.vercel.app/?username=YasmiNin9&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
