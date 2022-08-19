@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=eb3455&size=25&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Yasmin+Vitória+Souto;I'm+21+years+old+;I'm+studying+Software+Development+by+my+own.;+Welcome+To+My+Profile+♡+:%29)](https://git.io/typing-svg)
 
-## ѕoвre мιм | aвoυт мe
+## ・Soвre мιм | aвoυт мe ・
 
 Meu nome é <strong>Yasmin Vitória Souto</strong>, sou de 2001 e tenho como hobby <strong>escutar música, aprender idiomas e jogar.</strong><br>
 
