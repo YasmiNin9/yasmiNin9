@@ -23,7 +23,7 @@ você pode conferi-lôs aqui e no Vercel! (/≧▽≦)/</strong> <i> Obrigada po
 > + <strong>I'm currently in learning process, but I already have <strong>published</strong> repositories here,<br>
 you can check them out here or in Vercel! (/≧▽≦)/</strong> <i> Thanks for coming, you're welcome! </i>
 
-> - [**1° Projeto com CSS GRID**](https://animewinter.vercel.app) | [Profile Card Animado](https://profile-card-with-css.vercel.app) | [Calculadora](https://calculajs.vercel.app) |  ** Netflix Clone ↓ and more +**
+> - [**1° Projeto com CSS GRID**](https://animewinter.vercel.app) | [Profile Card Animado](https://profile-card-with-css.vercel.app) | [Calculadora](https://calculajs.vercel.app) |  **Netflix Clone ↓ and more +**
 
 ![netflixClone](https://cdn.discordapp.com/attachments/935238082125525082/1005626742767112202/Project_with_CSS_GRID.gif)
 ![onlineShop](https://media.discordapp.net/attachments/935238082125525082/1010336589878145064/unknown.png?width=1381&height=683)
