@@ -39,7 +39,6 @@ you can check them out here or in Vercel! (/≧▽≦)/</strong> <i> Thanks for 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
  
 ### 📱 Redeѕ ѕocιaιѕ | Socιal
-<a href="https://www.linkedin.com/in/soutovit/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:yasminsouto5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
 ### ⚙ Ferraмenтaѕ | Toolѕ </h3>
